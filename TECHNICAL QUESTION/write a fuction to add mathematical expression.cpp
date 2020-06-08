@@ -2,6 +2,12 @@
 #include <vector>
 using namespace std;
 
+/*
+** QUESTION STATEMENT
+! problem statement 
+* given two expression of the form a*X^a + b*x^b and c*x^x - d*x^d 
+* we are required to return the sum the two expressions
+*/
 class ExprTem
 {
 public:
@@ -12,7 +18,8 @@ public:
 vector<ExprTem> add_(vector<ExprTem> expr1, vector<ExprTem> expr2)
 {
     vector<ExprTem> result;
-    // solve here!
+    // TODO : solve the problem here in simple way!!
+    // ! approach matters more than solution!
 }
 
 int main()
